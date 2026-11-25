@@ -19,4 +19,10 @@ typeof c == typeof d  ? console.log("c and d are of same type") : console.log("c
 c !== d  ? console.log("c and d are not equal") : console.log("c and d are equal");
 c != d  ? console.log("c and d are not equal") : console.log("c and d are equal");
 
+//Logical operators
+let e = true;
+let f = false;  
+console.log(e && f); // false
+console.log(e || f); // true
+console.log(!e); // false
 
