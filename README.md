@@ -12,6 +12,9 @@ A hands-on learning repository for JavaScript fundamentals, browser automation, 
 | [`03_chapter_JS_Literals/`](03_chapter_JS_Literals/) | Values and literals, including numbers, strings, `null`, `undefined`, and special values |
 | [`04_chapter_JS_Operators/`](04_chapter_JS_Operators/) | Assignment, arithmetic, comparison, logical, string, `typeof`, and ternary operators |
 | [`05_chapter_JS_Incre_Decre_Op/`](05_chapter_JS_Incre_Decre_Op/) | Increment/decrement operators, nullish coalescing, and practice exercises |
+| [`06_chapter_Conditonal_Statement/`](06_chapter_Conditonal_Statement/) | Conditional statements, including `if`, `if/else`, nested conditions, and multiple branches |
+| [`07_chapter_switch/`](07_chapter_switch/) | `switch` statements, grouped cases, and practice exercises |
+| [`08_chapter_UserInput/`](08_chapter_UserInput/) | User input in Node.js, synchronous prompts, and reading files |
 
 The chapters are intended to be explored in order. Example files are standalone learning exercises; not every file is a complete application.
 
@@ -49,5 +52,8 @@ LearningPlaywright/
 ├── 02_chapter_JS_keyword_Identifiers/
 ├── 03_chapter_JS_Literals/
 ├── 04_chapter_JS_Operators/
-└── 05_chapter_JS_Incre_Decre_Op/
+├── 05_chapter_JS_Incre_Decre_Op/
+├── 06_chapter_Conditonal_Statement/
+├── 07_chapter_switch/
+└── 08_chapter_UserInput/
 ```
