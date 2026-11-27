@@ -15,6 +15,9 @@ A hands-on learning repository for JavaScript fundamentals, browser automation, 
 | [`06_chapter_Conditonal_Statement/`](06_chapter_Conditonal_Statement/) | Conditional statements, including `if`, `if/else`, nested conditions, and multiple branches |
 | [`07_chapter_switch/`](07_chapter_switch/) | `switch` statements, grouped cases, and practice exercises |
 | [`08_chapter_UserInput/`](08_chapter_UserInput/) | User input in Node.js, synchronous prompts, and reading files |
+| [`09_chapter_loops/`](09_chapter_loops/) | Loop fundamentals, `for` loops, and practice questions |
+| [`10_chapter_loops_While/`](10_chapter_loops_While/) | `while` loops, loop control with `break`, and practice questions |
+| [`11_chapter_loops_DoWhile/`](11_chapter_loops_DoWhile/) | `do...while` loops and nested-loop practice |
 
 The chapters are intended to be explored in order. Example files are standalone learning exercises; not every file is a complete application.
 
@@ -55,5 +58,8 @@ LearningPlaywright/
 ├── 05_chapter_JS_Incre_Decre_Op/
 ├── 06_chapter_Conditonal_Statement/
 ├── 07_chapter_switch/
-└── 08_chapter_UserInput/
+├── 08_chapter_UserInput/
+├── 09_chapter_loops/
+├── 10_chapter_loops_While/
+└── 11_chapter_loops_DoWhile/
 ```
